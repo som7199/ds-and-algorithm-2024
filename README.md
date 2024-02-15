@@ -23,8 +23,8 @@
 
     - 큐 : Fisrt in Fisrt Out(FIFO)
 
-    ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
-
+    ![queue](https://raw.githubusercontent.com/som7199/ds-and-algorithm-2024/main/images/queue.png)
+    
 ## 4일차
 - 파이썬 자료 구조
     - 트리
