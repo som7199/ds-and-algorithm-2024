@@ -47,10 +47,12 @@
 - 파이썬 자료구조/알고리즘
     - 재귀호출
     - 정렬
-        - 선택 정렬 Selection Sort - 최솟값을 찾아서 맨 앞으로 O(n^2)
-        - 삽입 정렬 Insertion Sort - 기준값 기준 앞 뒤로 보내는 정렬 O(n^2)
-        - 버블 정렬 Bubble Sort - 기준값 기준으로 제일 큰 값을 뒤로 보내는 정렬 O(n^2)
-        - 퀵 정렬 Quick Sort - 기준값 기준으로 작은 값 그룹/큰 값 그룹 분리한 뒤 다시 정렬 재귀 호출 O(nlogn)
+        - 선택 정렬 Selection Sort - 최솟값을 찾아서 맨 앞으로
+        - 삽입 정렬 Insertion Sort - 기준값 기준 앞 뒤로 보내는 정렬
+        - 버블 정렬 Bubble Sort - 기준값 기준으로 제일 큰 값을 뒤로 보내는 정렬
+        - 퀵 정렬 Quick Sort - 기준값 기준으로 작은 값 그룹/큰 값 그룹 분리한 뒤 다시 정렬 재귀 호출
+
+    ![정렬](https://raw.githubusercontent.com/som7199/ds-and-algorithm-2024/main/images/sorting.jpg)
 
 ## 7일차
 - 파이썬 자료구조/알고리즘
