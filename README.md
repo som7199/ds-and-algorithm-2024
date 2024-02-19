@@ -52,7 +52,7 @@
         - 버블 정렬 Bubble Sort - 기준값 기준으로 제일 큰 값을 뒤로 보내는 정렬
         - 퀵 정렬 Quick Sort - 기준값 기준으로 작은 값 그룹/큰 값 그룹 분리한 뒤 다시 정렬 재귀 호출
 
-    ![정렬](https://raw.githubusercontent.com/som7199/ds-and-algorithm-2024/main/images/sorting.jpg)
+        ![정렬](https://raw.githubusercontent.com/som7199/ds-and-algorithm-2024/main/images/sorting.jpg)
 
 ## 7일차
 - 파이썬 자료구조/알고리즘
